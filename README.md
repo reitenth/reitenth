@@ -1,8 +1,13 @@
 # 💫About Me :
+
 🔭 I’m currently working on The Odin Project
+
 👯 I’m looking to collaborate on Jellyfin
+
 🌱 I’m currently learning Javascript
+
 💬 Ask me about HTML, CSS, Astro, Tailwind
+
 ⚡ Fun fact I have ran a marathon before.
 
 ## 🌐Socials
