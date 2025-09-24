@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reitenth&label=Profile%20views&color=0e75b6&style=flat" alt="reitenth" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 👯 I’m looking to collaborate on [Jellyfin](https://github.com/jellyfin/jellyfin)
+<p align="center">🔭 I’m currently working on The Odin Project</p>
+<p align="center">👯 I’m looking to collaborate on Jellyfin</p>
+<p align="center">👨‍💻 All of my projects are available at https://github.com/reitenth/my-odin-projects</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/reitenth/my-odin-projects](https://github.com/reitenth/my-odin-projects)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
